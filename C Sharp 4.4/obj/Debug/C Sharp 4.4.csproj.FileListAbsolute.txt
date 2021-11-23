@@ -1,0 +1,7 @@
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 4.4\C Sharp 4.4\bin\Debug\C Sharp 4.4.exe.config
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 4.4\C Sharp 4.4\bin\Debug\C Sharp 4.4.exe
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 4.4\C Sharp 4.4\bin\Debug\C Sharp 4.4.pdb
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 4.4\C Sharp 4.4\obj\Debug\C Sharp 4.4.csprojAssemblyReference.cache
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 4.4\C Sharp 4.4\obj\Debug\C Sharp 4.4.csproj.CoreCompileInputs.cache
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 4.4\C Sharp 4.4\obj\Debug\C Sharp 4.4.exe
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 4.4\C Sharp 4.4\obj\Debug\C Sharp 4.4.pdb
